@@ -22,10 +22,7 @@ I'm a security researcher and automation enthusiast who loves diving deep into c
 
 ## 📫 Connect With Me
 - 🌐 Blog: [bloodstiller.com](https://bloodstiller.com)
-- 🔗 HTB Profile: [Your HTB Profile](https://app.hackthebox.com/profile/bloodstiller)
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodstiller&show_icons=true&theme=radical)
+- 🔗 HTB Profile: [HTB Profile](https://app.hackthebox.com/profile/bloodstiller)
 
 ---
 <p align="center">
